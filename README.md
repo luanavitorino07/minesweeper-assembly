@@ -6,6 +6,6 @@ pra rodar:
 
 ---
 ### Nomes
-Emerson Camilo Pizarro Laquise
-Luana Assunção Vitorino
+Emerson Camilo Pizarro Laquise  - 
+Luana Assunção Vitorino  - 
 Pedro de Freitas Sena
